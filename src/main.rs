@@ -19,7 +19,6 @@ fn rls_cli(path: &Path) {
             println!("{}", format!("            {}", name).white());
         }
     }
-    println!("          └───────────┘");
 }
 
 fn main() {

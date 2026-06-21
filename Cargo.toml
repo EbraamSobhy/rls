@@ -1,0 +1,11 @@
+[package]
+name = "rls"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = "4"
+walkdir = "2"
+colored = "3"
+crossterm = "0.29"
+unicode-width = "0.2"

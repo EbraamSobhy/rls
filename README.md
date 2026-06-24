@@ -1,4 +1,4 @@
-# 🦀 rls-cli
+# 🦀 rls
 
 A simple, fast, and colorful CLI tool written in Rust that lists files and directories in a clean terminal UI.  
 It is inspired by `ls`, but adds colors, formatting, and a future tree view mode.
